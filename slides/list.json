@@ -1,0 +1,19 @@
+[
+    "index.md",
+    "about-this-talk.md",
+    "about-this-ninja.md",
+    [
+        "vagrant.md",
+        "vagrant-what.md",
+        "vagrant-why.md",
+        "vagrant-how.md",
+        "vagrant-example.md"
+    ],
+    [
+        "drupal-and-vagrant.md",
+        "vdd.md",
+        "vdd-getting-started.md"
+    ],
+    "demo.md",
+    "the-end.md"
+]
